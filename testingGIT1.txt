@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Adding a line directly on GITHUB: equivalent to a second project contributor
 Adding secocnd line directly on GITHUB: equivalent to a second project contributor
+=======
+Adding a line directly on GITHUB: equivalent to a second project contributor
+Simultaneously changing on local without fetch and pull.
+>>>>>>> 83cc2d9... Local and Server changes, no pull
